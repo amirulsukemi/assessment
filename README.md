@@ -1,4 +1,4 @@
-# sensmaster_test_vue
+# test_vue
 
 ## Project setup
 ```
